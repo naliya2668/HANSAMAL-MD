@@ -11,6 +11,7 @@
 "@whiskeysockets/baileys": "6.6.0",
 "@adiwajshing/keyed-db": "^0.2.4",
 "@bochilteam/scraper": "^4.2.4",
+"@vreden/youtube_scraper": "1.2.5",
 "@xct007/frieren-scraper": "^0.0.2",
 "btch-downloader":"2.3.1-alpha",
 "pino": "^7.0.5",
@@ -58,6 +59,8 @@
 "megajs": "1.1.0",
 "got": "^11.8.2",
 "stream": "^0.0.2",
+"@xaviabot/fb-downloader": "^1.0.14",  
+"ruhend-scraper": "latest",  
 "vm": "^0.1.0",
 "tiktokdl": "^0.0.5",
 "qrcode-terminal": "^0.12.0"
